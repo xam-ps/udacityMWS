@@ -4,3 +4,6 @@
 [submodule "wittr"]
 	path = wittr
 	url = https://github.com/xam-ps/wittr.git
+[submodule "mws-restaurant-stage-1"]
+	path = mws-restaurant-stage-1
+	url = https://github.com/xam-ps/mws-restaurant-stage-1.git
