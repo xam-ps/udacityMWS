@@ -7,3 +7,6 @@
 [submodule "mws-restaurant-stage-1"]
 	path = mws-restaurant-stage-1
 	url = https://github.com/xam-ps/mws-restaurant-stage-1.git
+[submodule "course-ajax"]
+	path = course-ajax
+	url = https://github.com/xam-ps/course-ajax.git
