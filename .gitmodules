@@ -16,3 +16,6 @@
 [submodule "course-ud303"]
 	path = http
 	url = https://github.com/xam-ps/course-ud303.git
+[submodule "mws-restaurant-stage-3"]
+	path = mws-restaurant-stage-3
+	url = https://github.com/xam-ps/mws-restaurant-stage-3.git
